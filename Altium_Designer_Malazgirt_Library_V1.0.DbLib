@@ -1,0 +1,38 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\ferdi\Belgeler\GitHub\Altium_Designer_Malazgirt_Library_V1.0\Altium_Designer_Malazgirt_Library_V1.0.accdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=C:\Users\ferdi\Belgeler\GitHub\Altium_Designer_Malazgirt_Library_V1.0\Altium_Designer_Malazgirt_Library_V1.0.accdb
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=MLV1_Microcontroller
+[Table1]
+SchemaName=
+TableName=MLV1_Microcontroller
+Enabled=True
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=MLV1_Microcontroller.Part Number|TableNameOnly=MLV1_Microcontroller|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=MLV1_Microcontroller.Library Path|TableNameOnly=MLV1_Microcontroller|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=MLV1_Microcontroller.Library Ref|TableNameOnly=MLV1_Microcontroller|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=MLV1_Microcontroller.Footprint Path|TableNameOnly=MLV1_Microcontroller|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=MLV1_Microcontroller.Footprint Ref|TableNameOnly=MLV1_Microcontroller|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
